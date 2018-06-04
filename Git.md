@@ -12,3 +12,8 @@
 `$ git stash list` : stash한 list 보기
 
 `$ git stash apply` : stash 된 것 적용
+
+
+## 이전 커밋 파일 가져오기
+
+`$ git show commit-id:file > oldfile`
